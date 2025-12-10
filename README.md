@@ -1,7 +1,8 @@
 # Data Scientist
 
 ### Education
-Mathematics, MSc. Data Science and Analytics
+- Mathematics, MSc. Data Science and Analytics (2024-2025)
+- Information Technology, Bachelor (2016-2019)
 
 
 ### Data Analytics Projects
