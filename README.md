@@ -2,7 +2,7 @@
 
 ### Education
 Mathematics, MSc. Data Science and Analytics
-Information Technology, Bachelor
+
 
 ### Data Analytics Projects
 - Tropical Rainfall Modelling and Forecasting 
