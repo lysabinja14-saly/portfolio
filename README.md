@@ -6,7 +6,7 @@ Mathematics, MSc. Data Science and Analytics
 
 ### Data Analytics Projects
 - Tropical Rainfall Modelling and Forecasting 
-- Bitcoin campain success analysis, with a big datase using super ensemble ML models
+- Bitcoin campain success analysis with a big dataset using super ensemble ML models
 - Business Decision making using Cross-Industry Standard Process for Data Mining (CRISP-DM)
 
  # Project Manager
