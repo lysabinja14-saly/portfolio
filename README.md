@@ -17,3 +17,7 @@
 
 # Product Manager
 - Refined Justice Chatbot SaaS product vision, design, and implementation using Figma, Infinity (for backlog management)
+
+# Project Coordinator
+- Represented and led project operations from Kinshasa to Burundi in partneship with Help a Child(HAC) Burundi to implement a web, mobile,and USSD application for small and medium entrepreneurs with the mission to bridge urban and rural entrepreneurs for equal sales and growth opportunities.
+   -  Visit the Video: https://drive.google.com/file/d/1q1om0Zm0iwkPSiSZ07gCMKwuAaXzhG8g/view?usp=sharing 
