@@ -25,9 +25,10 @@
 # Product Manager
 - Refined [Justice Chatbot SaaS](https://www.justicebot.org/) product vision, design, and implementation using Figma, Infinity (for backlog management)
 - Managed stackholders engagement to achieve product refinement success and timely feauture launch for early birds clients (10 early bird with Pre-service subscription)
-- Managed the online IT infrastructure 
+- Managed the online IT infrastructure
+- Implemented Customer Success (CS) department and designed customer journey for the refined product that resulted into 40% customer retainment
 # Project Coordinator
-- Represented and led project operations from _Kinshasa to Burundi_ in partneship with Help a Child(HAC) Burundi to implement a web, mobile and USSD application to bridge rural and urban entrepreneurship to enable equal sales and growth opportunities for small and medium entrepreneurs with the mission
+- Represented and led project operations from _Kinshasa to Burundi_ in partneship with [Help a Child](https://www.helpachild.org/burundi/)(HAC) Burundi to implement a web, mobile and USSD application to bridge rural and urban entrepreneurship to enable equal sales and growth opportunities for small and medium entrepreneurs with the mission
    -  Visit the [Video](https://drive.google.com/file/d/1q1om0Zm0iwkPSiSZ07gCMKwuAaXzhG8g/view?usp=sharing)
 
 ### Data communities
