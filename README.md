@@ -30,3 +30,8 @@
 # Project Coordinator
 - Represented and led project operations from _Kinshasa to Burundi_ in partneship with Help a Child(HAC) Burundi to implement a web, mobile and USSD application to bridge rural and urban entrepreneurship to enable equal sales and growth opportunities for small and medium entrepreneurs with the mission
    -  Visit the Video: https://drive.google.com/file/d/1q1om0Zm0iwkPSiSZ07gCMKwuAaXzhG8g/view?usp=sharing 
+
+### Data communities
+- Towards Data Science
+- Data for good
+- Khan Academy - Mathematic for Data Science
