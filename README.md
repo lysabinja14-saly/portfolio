@@ -1,15 +1,9 @@
-<p float="right">
-  <img src="your-image-url.png" width="120" />
-</p>
-
-## Hi, I'm Binja Lysa 👋
-Welcome to my portfolio!
 
 # Data Scientist
 
 ### Education
 | Degree                         | Years       |
-|--------------------------------|------------|
+|--------------------------------|-------------|
 | M. Sc., Data Science and Analytics | 2024-2025 |
 | Bc. Information Technology       | 2016-2019 |
 
