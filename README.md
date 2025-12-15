@@ -1,12 +1,11 @@
 # Data Scientist
 
-
-{content:
-- M. Sc., Data Science and Analytics |  2024-2025
-- Bc. Information Technology  | 2016-2019
-}
 ### Education
-- Mathematics, MSc. Data Science and Analytics (2024-2025)
+| Degree                         | Years       |
+|--------------------------------|------------|
+| M. Sc., Data Science and Analytics | 2024-2025 |
+| Bc. Information Technology       | 2016-2019 |
+
 ### Relevant Courseworks included:
     - Relevant coursework
     - Applied statistic and Statistical Modelling
@@ -15,8 +14,6 @@
     - Data visualization
     - Business analytics and decision making
     - Predictive analytics
-  
-- Information Technology, Bachelor (2016-2019)
 
 ### Data Analytics Projects
 - Tropical Rainfall Modelling and Forecasting 
