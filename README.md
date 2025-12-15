@@ -1,3 +1,10 @@
+<p float="right">
+  <img src="your-image-url.png" width="120" />
+</p>
+
+# Hi, I'm [Binja Lysa] 👋
+Welcome to my portfolio!
+
 # Data Scientist
 
 ### Education
@@ -33,9 +40,9 @@
 # Project Coordinator
 - Represented and led project operations from _Kinshasa to Burundi_ in partneship with [Help a Child](https://www.helpachild.org/burundi/)(HAC) Burundi to implement a web, mobile and USSD application to bridge rural and urban entrepreneurship to enable equal sales and growth opportunities for small and medium entrepreneurs with the mission
    -  Visit the [Video](https://drive.google.com/file/d/1q1om0Zm0iwkPSiSZ07gCMKwuAaXzhG8g/view?usp=sharing)
-   -  For details see 
+   -  For more details see [this PowerPoint presentation](https://docs.google.com/presentation/d/1R6-J-CZc4sI6rGzsgkQSdrArFnjtz2Q_/edit?slide=id.p1#slide=id.p1)
 
 ### Data communities
 - Towards Data Science
 - Data for good
-- Khan Academy - Mathematic for Data Science
+- Khan Academy - Mathematics for Data Science
