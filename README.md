@@ -2,7 +2,7 @@
   <img src="your-image-url.png" width="120" />
 </p>
 
-# Hi, I'm [Binja Lysa] 👋
+## Hi, I'm Binja Lysa 👋
 Welcome to my portfolio!
 
 # Data Scientist
