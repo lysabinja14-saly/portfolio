@@ -1,5 +1,5 @@
 
-<img src="Binja%20LysaProfilephoto.jpg" width="150"  border-radius:50%;/>
+<img src="Binja%20LysaProfilephoto.jpg" width="150"  border-radius:50%/>
 
 
 ## Data Scientist
