@@ -1,6 +1,6 @@
 
 
-<img src="Binja%20LysaProfilephoto.jpg" width="180" style="border-radius: 50%;" />
+<img src="Binja%20LysaProfilephoto.jpg" width="180" style="border-radius: 80%;" />
 
 
 # I am a Data Scientist
