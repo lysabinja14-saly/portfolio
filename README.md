@@ -1,4 +1,9 @@
+<p align="right">
+  <img src="Binja%20LysaProfilephoto.jpg" width="120" />
+</p>
 
+# Hi, 👋  
+Welcome to my portfolio!
 # Data Scientist
 
 ### Education
