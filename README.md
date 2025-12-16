@@ -19,16 +19,15 @@
 
 <table cellpadding="6">
   <tr>
-    <th align="left">Degree</th>
-    <th align="left">Years</th>
+   
   </tr>
   <tr>
     <td>M.Sc., Data Science and Analytics</td>
-    <td> <i> 2024 – 2025</i>i></td>
+    <td> University of Leeds (<i> 2024 – 2025</i>)</td>
   </tr>
   <tr>
     <td>B.Sc., Information Technology</td>
-    <td> <i>2016 – 2019</i></td>
+    <td> International univerisity of East Africa (<i>2016 – 2019</i>)</td>
   </tr>
 </table>
 
