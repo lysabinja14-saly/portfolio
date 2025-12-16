@@ -52,6 +52,7 @@
 
  - Led web and mobile application implementation for Burundian Office for Revenue (OBR), [Nemedis Technologies](https://nemidis.com/services)
  - Used Atlassian's suite: Jira, Confluence, Bitbucket, and  the google workspace, etc for project monitoring and internal collaboration
+ - Monitored and reported cross-departemental company operations 
 
 ### Remote Product Manager @ Justice Chatbot Ltd. (<i> July 2022 - January 2024</i>)
 
