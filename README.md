@@ -1,9 +1,9 @@
+<div style="width:180px; height:180px; border-radius:50%; overflow:hidden;">
+<img src="Binja%20LysaProfilephoto.jpg" width="120" />
+</div>
 
 
-<img src="Binja%20LysaProfilephoto.jpg" width="180" style="border-radius: 80%;" />
-
-
-# I am a Data Scientist
+# Data Scientist
 
 ### Education
 | Degree                         | Years       |
