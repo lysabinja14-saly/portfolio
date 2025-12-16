@@ -1,6 +1,6 @@
-
+<div>
 <img src="Binja%20LysaProfilephoto.jpg" width="130"  style= border-radius:50%;/>
-
+</div>
 
 # Data Scientist
 
