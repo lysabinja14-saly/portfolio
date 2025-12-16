@@ -1,3 +1,17 @@
+
+<p align="center">
+  <img 
+    src="assets/images/profile.jpg"
+    alt="Profile photo"
+    style="
+      width: 160px;
+      max-width: 40vw;
+      border-radius: 50%;
+      display: block;
+      margin: 0 auto;
+    "
+  />
+</p>
 <div style="width:180px; height:180px; border-radius:50%; overflow:hidden;">
 <img src="Binja%20LysaProfilephoto.jpg" width="180" />
 </div>
