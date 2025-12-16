@@ -39,14 +39,13 @@
     - Data mining
     - Machine learning
     - Data visualization
-    - Business analytics and decision making
+    - Business Decision making using Cross-Industry Standard Process for Data Mining (CRISP-DM)
     - Predictive analytics
 
 ### Data Analytics Projects
 
 - Tropical Rainfall Modelling and Forecasting 
 - Bitcoin campain success analysis with a big dataset using super ensemble ML models
-- Business Decision making using Cross-Industry Standard Process for Data Mining (CRISP-DM)
 
 ### Project Manager @ Nemedis Technologies (<i> January - June 2024</i>)
 
