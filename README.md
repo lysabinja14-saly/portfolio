@@ -76,9 +76,9 @@
    
 ### Project Coordinator @ Solution Africa Kinshasa (<i> January 2021- December 2023</i>)
 
-- Represented and led project operations from _Kinshasa to Burundi_ in partneship with [Help a Child](https://www.helpachild.org/burundi/) (HAC) Burundi to implement a web, mobile and USSD application to bridge rural and urban entrepreneurship to enable equal sales and growth opportunities for small and medium entrepreneurs with the mission
+-Represented and led project operations from Kinshasa to Burundi in partnership with [Help a Child](https://www.helpachild.org/burundi/) (HAC) Burundi to develop and launch a web, mobile, and USSD platform connecting rural and urban entrepreneurs, enabling equitable market access, sales, and growth opportunities for small and medium enterprises
    -  Watch the ad [video](https://drive.google.com/file/d/1q1om0Zm0iwkPSiSZ07gCMKwuAaXzhG8g/view?usp=sharing)
-   -  For more details see [this PowerPoint presentation](https://docs.google.com/presentation/d/1R6-J-CZc4sI6rGzsgkQSdrArFnjtz2Q_/edit?slide=id.p1#slide=id.p1)
+   -  and for more details see [this PowerPoint presentation](https://docs.google.com/presentation/d/1R6-J-CZc4sI6rGzsgkQSdrArFnjtz2Q_/edit?slide=id.p1#slide=id.p1)
 
 ### Data communities
 - Towards Data Science
