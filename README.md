@@ -13,7 +13,7 @@
   />
 </p>
 
-<h1 align="center">Data Scientist</1>
+<h1 align="center">Data Scientist</h1>
 
 ### Education
 
