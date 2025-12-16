@@ -2,10 +2,9 @@
 <img src="Binja%20LysaProfilephoto.jpg" width="180"  style= border-radius:50%;/>
 
 
-## Data Scientist
+# Data Scientist
 
 ### Education
-<h3>Education</h3>
 
 <table cellpadding="6">
   <tr>
@@ -14,14 +13,15 @@
   </tr>
   <tr>
     <td>M.Sc., Data Science and Analytics</td>
-    <td>2024–2025</td>
+    <td>2024 – 2025</td>
   </tr>
   <tr>
     <td>B.Sc., Information Technology</td>
-    <td>2016–2019</td>
+    <td>2016 – 2019</td>
   </tr>
 </table>
-### Relevant Courseworks included:
+
+### Relevant Data Analytics Courseworks
     - Relevant coursework
     - Applied statistic and Statistical Modelling
     - Data mining
@@ -35,17 +35,32 @@
 - Bitcoin campain success analysis with a big dataset using super ensemble ML models
 - Business Decision making using Cross-Industry Standard Process for Data Mining (CRISP-DM)
 
-## Project Manager
+## Project Manager @ Nemedis Technologies (<i>January - June 2024</i>)
  - Led web and mobile application implementation for Burundian Office for Revenue (OBR), [Nemedis Technologies](https://nemidis.com/services)
  - Used Atlassian's suite: Jira, Confluence, Bitbucket, and  the google workspace, etc for project monitoring and internal collaboration
 
-## Product Manager
+## Remote Product Manager @ Justice Chatbot Ltd. (July 2022 - January 2024)
+
 - Refined [Justice Chatbot SaaS](https://www.justicebot.org/) product vision, design, and implementation using Figma, Infinity (for backlog management)
 - Managed stackholders engagement to achieve product refinement success and timely feauture launch for early birds clients (10 early bird with Pre-service subscription)
-- Managed the online IT infrastructure
 - Implemented Customer Success (CS) department and designed customer journey for the refined product that resulted into 40% customer retainment
 
-## Project Coordinator
+## Remote IT & System Admninistrator @ Justice Chatbot Ltd. (July 2020 - January 2024)
+
+ - Managed the company's IT infrastructure technology tools and systems
+ - Installed and configured software
+ - Administered users and workstations
+ - Trained team members
+ - Monitored system performance and security
+ - Documented internal systems
+ - Managed data storage and backups
+
+#### Key Achievements:
+
+ - Established internship and training pathways to ensure role continuity
+ - Presented the company product (onduka.com) at a hackathon, leading to increased visibility and      positive sales outcomes ( up to 20 subscribers in Kinshasa - DRC within a 6 weeks trial)
+ - 
+## Project Coordinator @ Solution Africa Kinshasa (January 2021- December 2023)
 - Represented and led project operations from _Kinshasa to Burundi_ in partneship with [Help a Child](https://www.helpachild.org/burundi/)(HAC) Burundi to implement a web, mobile and USSD application to bridge rural and urban entrepreneurship to enable equal sales and growth opportunities for small and medium entrepreneurs with the mission
    -  Watch the ad [Video](https://drive.google.com/file/d/1q1om0Zm0iwkPSiSZ07gCMKwuAaXzhG8g/view?usp=sharing)
    -  For more details see [this PowerPoint presentation](https://docs.google.com/presentation/d/1R6-J-CZc4sI6rGzsgkQSdrArFnjtz2Q_/edit?slide=id.p1#slide=id.p1)
