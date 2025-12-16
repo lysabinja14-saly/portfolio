@@ -4,8 +4,8 @@
     src="Binja LysaProfilephoto.jpg"
     alt="Profile photo"
     style="
-      width: 160px;
-      max-width: 40vw;
+      width: 150px;
+      max-width: 50vw;
       border-radius: 50%;
       display: block;
       margin: 0 auto;
@@ -13,8 +13,8 @@
   />
 </p>
 
-<h2 align="center">Binja Lysa</h2>
-<p align="center"><b>Data Scientist</b></p>
+<h1 align="center">Data Scientist</1>
+<p align="center"><b></b></p>
 
 ### Education
 
