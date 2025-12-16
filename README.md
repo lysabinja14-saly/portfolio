@@ -34,7 +34,7 @@
 ## Work Experience
 
 ### Relevant Data Analytics Courseworks
-    - Relevant coursework
+
     - Applied statistic and Statistical Modelling
     - Data mining
     - Machine learning
