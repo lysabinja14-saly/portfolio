@@ -14,7 +14,6 @@
 </p>
 
 <h1 align="center">Data Scientist</1>
-<p align="center"><b></b></p>
 
 ### Education
 
