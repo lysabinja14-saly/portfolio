@@ -1,7 +1,7 @@
 
 <p align="center">
   <img 
-    src="assets/images/profile.jpg"
+    src="Binja LysaProfilephoto.jpg"
     alt="Profile photo"
     style="
       width: 160px;
@@ -12,11 +12,9 @@
     "
   />
 </p>
-<div style="width:180px; height:180px; border-radius:50%; overflow:hidden;">
-<img src="Binja%20LysaProfilephoto.jpg" width="180" />
-</div>
 
-# Data Scientist
+<h2 align="center">Binja Lysa</h2>
+<p align="center"><b>Data Scientist</b></p>
 
 ### Education
 
