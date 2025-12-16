@@ -1,11 +1,7 @@
-<table>
-<tr>
-<td width="30%" valign="top">
+
 
 <img src="Binja%20LysaProfilephoto.jpg" width="180" style="border-radius: 50%;" />
-</td>
-</tr>
-</table>
+
 
 # I am a Data Scientist
 
