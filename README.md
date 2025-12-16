@@ -84,4 +84,4 @@
 - Towards Data Science
 - Data for good
 - Khan Academy
-- [LEEM] (https://cran.r-project.org/web/packages/leem/leem.pdf) for Data Science
+- [LEEM](https://cran.r-project.org/web/packages/leem/leem.pdf) for Data Science
