@@ -83,4 +83,5 @@
 ### Data communities
 - Towards Data Science
 - Data for good
-- Khan Academy - Mathematics for Data Science
+- Khan Academy
+- [LEEM] (https://cran.r-project.org/web/packages/leem/leem.pdf) for Data Science
