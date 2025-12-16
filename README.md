@@ -1,9 +1,8 @@
-<div style="width:180px; height:180px; border-radius:50%; overflow:hidden;">
-<img src="Binja%20LysaProfilephoto.jpg" width="150" />
-</div>
+
+<img src="Binja%20LysaProfilephoto.jpg" width="150"  border-radius:50%;/>
 
 
-# Data Scientist
+## Data Scientist
 
 ### Education
 | Degree                         | Years       |
@@ -25,17 +24,17 @@
 - Bitcoin campain success analysis with a big dataset using super ensemble ML models
 - Business Decision making using Cross-Industry Standard Process for Data Mining (CRISP-DM)
 
-# Project Manager
+## Project Manager
  - Led web and mobile application implementation for Burundian Office for Revenue (OBR), [Nemedis Technologies](https://nemidis.com/services)
  - Used Atlassian's suite: Jira, Confluence, Bitbucket, and  the google workspace, etc for project monitoring and internal collaboration
 
-# Product Manager
+## Product Manager
 - Refined [Justice Chatbot SaaS](https://www.justicebot.org/) product vision, design, and implementation using Figma, Infinity (for backlog management)
 - Managed stackholders engagement to achieve product refinement success and timely feauture launch for early birds clients (10 early bird with Pre-service subscription)
 - Managed the online IT infrastructure
 - Implemented Customer Success (CS) department and designed customer journey for the refined product that resulted into 40% customer retainment
 
-# Project Coordinator
+## Project Coordinator
 - Represented and led project operations from _Kinshasa to Burundi_ in partneship with [Help a Child](https://www.helpachild.org/burundi/)(HAC) Burundi to implement a web, mobile and USSD application to bridge rural and urban entrepreneurship to enable equal sales and growth opportunities for small and medium entrepreneurs with the mission
    -  Watch the ad [Video](https://drive.google.com/file/d/1q1om0Zm0iwkPSiSZ07gCMKwuAaXzhG8g/view?usp=sharing)
    -  For more details see [this PowerPoint presentation](https://docs.google.com/presentation/d/1R6-J-CZc4sI6rGzsgkQSdrArFnjtz2Q_/edit?slide=id.p1#slide=id.p1)
