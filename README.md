@@ -24,11 +24,11 @@
   </tr>
   <tr>
     <td>M.Sc., Data Science and Analytics</td>
-    <td>2024 – 2025</td>
+    <td> <i> 2024 – 2025</i>i></td>
   </tr>
   <tr>
     <td>B.Sc., Information Technology</td>
-    <td>2016 – 2019</td>
+    <td> <i>2016 – 2019</i></td>
   </tr>
 </table>
 
