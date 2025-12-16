@@ -1,5 +1,5 @@
-<div>
-<img src="Binja%20LysaProfilephoto.jpg" width="130"  style= border-radius:50%;/>
+<<div style="width:180px; height:180px; border-radius:50%; overflow:hidden;">
+<img src="Binja%20LysaProfilephoto.jpg" width="180" />
 </div>
 
 # Data Scientist
