@@ -1,4 +1,4 @@
-<<div style="width:180px; height:180px; border-radius:50%; overflow:hidden;">
+<div style="width:180px; height:180px; border-radius:50%; overflow:hidden;">
 <img src="Binja%20LysaProfilephoto.jpg" width="180" />
 </div>
 
