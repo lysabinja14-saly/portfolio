@@ -1,15 +1,26 @@
 
-<img src="Binja%20LysaProfilephoto.jpg" width="150"  style= border-radius:50%;/>
+<img src="Binja%20LysaProfilephoto.jpg" width="180"  style= border-radius:50%;/>
 
 
 ## Data Scientist
 
 ### Education
-| Degree                         | Years       |
-|--------------------------------|-------------|
-| M. Sc., Data Science and Analytics | 2024-2025 |
-| Bc. Information Technology       | 2016-2019 |
+<h3>Education</h3>
 
+<table cellpadding="6">
+  <tr>
+    <th align="left">Degree</th>
+    <th align="left">Years</th>
+  </tr>
+  <tr>
+    <td>M.Sc., Data Science and Analytics</td>
+    <td>2024–2025</td>
+  </tr>
+  <tr>
+    <td>B.Sc., Information Technology</td>
+    <td>2016–2019</td>
+  </tr>
+</table>
 ### Relevant Courseworks included:
     - Relevant coursework
     - Applied statistic and Statistical Modelling
