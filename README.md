@@ -35,7 +35,7 @@
 
 ### Relevant Data Analytics Courseworks
 
-    - Applied statistic and Statistical Modelling
+    - Applied statistics and Statistical Modelling
     - Business Decision making using Cross-Industry Standard Process for Data Mining (CRISP-DM)
     - Predictive analytics and Machine Learning models application
     - Data visualization with R, GIS, MS. Power BI and Python
