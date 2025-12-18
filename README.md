@@ -35,10 +35,10 @@
 
 ### Relevant Data Analytics Courseworks
 
-    - Applied statistics and Statistical Modelling
+    - Applied Statistics and Statistical Modelling
     - Business Decision making using Cross-Industry Standard Process for Data Mining (CRISP-DM)
-    - Predictive analytics and Machine Learning models application
-    - Data visualization with R, GIS, MS. Power BI and Python
+    - Predictive Analytics and Machine Learning models application
+    - Data Visualization with R, GIS, MS. Power BI and Python
     - Developped Deep Learning models such as Convolutional Neural Networks and Recurrent Neural Networks (CNNs and RNNs) for image classification and captioning
 
 ### Data Analytics Projects
